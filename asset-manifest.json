@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/upload-selfie/static/css/main.8610aee6.chunk.css",
+    "main.js": "/upload-selfie/static/js/main.4b4bcddd.chunk.js",
+    "main.js.map": "/upload-selfie/static/js/main.4b4bcddd.chunk.js.map",
+    "runtime-main.js": "/upload-selfie/static/js/runtime-main.98783a0a.js",
+    "runtime-main.js.map": "/upload-selfie/static/js/runtime-main.98783a0a.js.map",
+    "static/css/2.733ba2d0.chunk.css": "/upload-selfie/static/css/2.733ba2d0.chunk.css",
+    "static/js/2.412d7528.chunk.js": "/upload-selfie/static/js/2.412d7528.chunk.js",
+    "static/js/2.412d7528.chunk.js.map": "/upload-selfie/static/js/2.412d7528.chunk.js.map",
+    "index.html": "/upload-selfie/index.html",
+    "precache-manifest.dba4ccd27be7bb1763bfcdbbda37a1ed.js": "/upload-selfie/precache-manifest.dba4ccd27be7bb1763bfcdbbda37a1ed.js",
+    "service-worker.js": "/upload-selfie/service-worker.js",
+    "static/css/2.733ba2d0.chunk.css.map": "/upload-selfie/static/css/2.733ba2d0.chunk.css.map",
+    "static/css/main.8610aee6.chunk.css.map": "/upload-selfie/static/css/main.8610aee6.chunk.css.map",
+    "static/js/2.412d7528.chunk.js.LICENSE.txt": "/upload-selfie/static/js/2.412d7528.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98783a0a.js",
+    "static/css/2.733ba2d0.chunk.css",
+    "static/js/2.412d7528.chunk.js",
+    "static/css/main.8610aee6.chunk.css",
+    "static/js/main.4b4bcddd.chunk.js"
+  ]
+}
